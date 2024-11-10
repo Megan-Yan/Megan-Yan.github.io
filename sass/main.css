@@ -2977,7 +2977,7 @@ select {
 }
 
 textarea {
-  padding: 0;
+  padding: 40px;
   min-height: 3.75em;
 }
 
