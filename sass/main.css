@@ -3996,7 +3996,7 @@ body.is-menu-visible #menu .close {
 
 /* Wrapper */
 #wrapper > * > .inner {
-  width: 100%;
+  width: 70%;
   max-width: 68em;
   margin: 0 auto;
   padding: 0 2.5em;
