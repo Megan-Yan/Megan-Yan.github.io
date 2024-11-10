@@ -3876,13 +3876,13 @@ body.is-menu-visible #menu .close {
 }
 
 body {
-  background-color: #e7e2dc;
+  background-color: #fff2e7;
 }
 
 /* Footer */
 #footer {
   padding: 5em 0 6em 0;
-  background-color: #e7e2dc;
+  background-color: #fff2e7;
 }
 #footer > .inner {
   display: -moz-flex;
