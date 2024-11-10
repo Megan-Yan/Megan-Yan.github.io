@@ -4003,7 +4003,10 @@ body.is-menu-visible #menu .close {
 }
 @media screen and (max-width: 736px) {
   #wrapper > * > .inner {
-    padding: 0 2em;
+    width: 70%;
+    max-width: 68em;
+    margin: 0 auto;
+    padding: 0 2.5em;
   }
 }
 #wrapper > * > .inner .tags {
