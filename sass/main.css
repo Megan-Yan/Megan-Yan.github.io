@@ -3875,6 +3875,10 @@ body.is-menu-visible #menu .close {
   }
 }
 
+body {
+  background-color: #e7ddd2;
+}
+
 /* Footer */
 #footer {
   padding: 5em 0 6em 0;
@@ -4003,7 +4007,7 @@ body.is-menu-visible #menu .close {
 }
 @media screen and (max-width: 736px) {
   #wrapper > * > .inner {
-    width: 90%;
+    width: 95%;
     padding: 0 1.25em;
   }
 }
